@@ -1,2 +1,2 @@
 # gwibex
-"Gnu Windows IBEX" Project (Interval-Based EXplorer)
+"Gnu Windows IBEX" Built (Interval-Based EXplorer)
