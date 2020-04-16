@@ -3,7 +3,7 @@
  * Description: "Work around IBEX" Project (Interval Based EXplorer)
  *                https://github.com/ibex-team/ibex-lib
  * Authors: Bagad Sigwal
- * Copyright: 2020 Sigwal.info/github
+ * Copyright: 2020 Sigwal.info/github - All Rights Reserved
  * Last modification: 05/04/2020
  * Version: 20.04
  *
